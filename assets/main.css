@@ -8,9 +8,20 @@ label , button{
   font-size: 14px;
 }
 .contenedor{
-	background-color: #D5CFC1;
-	height: 550px;
+	background-color: rgb(139,30,46);
+	height: 280px;
 	padding: 9px;
-	width: 460px;
+	width: 490px;
 	box-sizing: border-box;
+}
+.uno{
+	width: 440px;
+	height: 100px;
+	margin: 10px;
+}
+.dos{
+	width: 240px;
+	height: 100px;
+	margin:10px;
+	background-color: #f9e777;
 }
