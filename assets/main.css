@@ -1,0 +1,16 @@
+
+h4,h3{
+	font-family: 'Poiret One', cursive;
+}
+
+label , button{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 14px;
+}
+.contenedor{
+	background-color: #D5CFC1;
+	height: 550px;
+	padding: 9px;
+	width: 460px;
+	box-sizing: border-box;
+}
