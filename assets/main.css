@@ -11,17 +11,50 @@ label , button{
 	background-color: rgb(139,30,46);
 	height: 280px;
 	padding: 9px;
-	width: 490px;
+	width: 530px;
 	box-sizing: border-box;
+	position: relative;
 }
 .uno{
-	width: 440px;
+	width: 490px;
 	height: 100px;
 	margin: 10px;
+	font-size: 50px;
+	text-align: center;
 }
 .dos{
 	width: 240px;
 	height: 100px;
 	margin:10px;
 	background-color: #f9e777;
+	font-size: 50px;
+	text-align: center;
 }
+div{
+	display: inline-block;
+}
+.iconos{
+	height: 100px;
+	font-size: 50px;
+	color: white;
+	position: absolute;
+	top: 35px;
+}
+#nuevo{
+	position: relative;
+	top: 100px;
+	left: 265px;
+}
+#check{
+	position: relative;
+	top: 155px;
+	left: 205px;
+}
+ img{
+ 	position: absolute;
+ 	height: 100px;
+ 	width: 14s0px;
+ 	left: 340px;
+ 	top: 150px;
+ 	background: white;
+ }
